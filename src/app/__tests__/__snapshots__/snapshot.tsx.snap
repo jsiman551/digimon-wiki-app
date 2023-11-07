@@ -1,0 +1,71 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Home component 1`] = `
+<div>
+  <main
+    data-testid="homeContainer"
+  >
+    <button
+      class="btn btn-primary"
+      type="button"
+    >
+      Primary
+    </button>
+     
+    <button
+      class="btn btn-secondary"
+      type="button"
+    >
+      Secondary
+    </button>
+     
+    <button
+      class="btn btn-success"
+      type="button"
+    >
+      Success
+    </button>
+     
+    <button
+      class="btn btn-warning"
+      type="button"
+    >
+      Warning
+    </button>
+     
+    <button
+      class="btn btn-danger"
+      type="button"
+    >
+      Danger
+    </button>
+     
+    <button
+      class="btn btn-info"
+      type="button"
+    >
+      Info
+    </button>
+     
+    <button
+      class="btn btn-light"
+      type="button"
+    >
+      Light
+    </button>
+     
+    <button
+      class="btn btn-dark"
+      type="button"
+    >
+      Dark
+    </button>
+    <button
+      class="btn btn-link"
+      type="button"
+    >
+      Link
+    </button>
+  </main>
+</div>
+`;
